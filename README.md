@@ -7,7 +7,7 @@ This is in conjunction with [github.com/vlingo](https://github.com/vlingo) and [
 mvn install
 ```
 
-## Generate native image resources
+## Generate native image resources Configs
 ```bash
 java -agentlib:native-image-agent=config-output-dir=src/main/resources/META-INF/native-image -jar target/fst-graalvm-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ```
