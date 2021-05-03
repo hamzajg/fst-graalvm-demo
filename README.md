@@ -1,5 +1,6 @@
 # fst-graalvm-demo
 Demo using Fast Serialization And GraalVM...
+This is in conjunction with [github.com/vlingo](github.com/vlingo) and [vlingo.io](vlingo.io).
 
 ## Maven Build
 ```bash
