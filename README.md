@@ -27,8 +27,8 @@ mvn install
 
 ## Run the JVM demo
 
-FST 2.57 reflects into JDK internals that JDK 16+ closes by default, so the
-JVM needs the same `--add-opens` flags the tests use:
+FST 2.57 reflects into JDK internals that modern JDKs close by default, so
+the JVM needs the same `--add-opens` flags the tests use:
 
 ```bash
 java \
