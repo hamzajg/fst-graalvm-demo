@@ -16,7 +16,7 @@ Equal:      true
 
 ## Requirements
 
-- JDK 17 for the JVM demo and tests (FST 2.57 predates the module system)
+- JDK 25 for the JVM demo and tests (FST 2.57 predates the module system)
 - GraalVM 21.1 for the native-image profile
 
 ## Maven build
